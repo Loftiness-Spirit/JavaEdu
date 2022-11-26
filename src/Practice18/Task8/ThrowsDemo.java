@@ -5,15 +5,15 @@ import java.util.Scanner;
 public class ThrowsDemo {
     public void getKey() {
         String key = "";
-        try {
-            Scanner myScanner = new Scanner(System.in);
-            key = myScanner.next();
-            printDetails(key);
-        }
-        catch (Exception e)
-        {
-            Scanner myScanner = new Scanner(System.in);
-            key = myScanner.next();
+        while (true) {
+            try {
+                Scanner myScanner = new Scanner(System.in);
+                key = myScanner.nextLine();
+                printDetails(key);
+                break;
+            } catch (Exception e) {
+                System.out.println("Have another try");
+            }
         }
     }
     public void printDetails(String key) throws Exception{
@@ -26,7 +26,9 @@ public class ThrowsDemo {
     }
     private String getDetails(String key) throws Exception {
         if(key == "") {
+
             throw new Exception( "Key set to empty string" );
         }
-        return "data for " + key; }
+        else return "data for " + key;
+    }
 }
