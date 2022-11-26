@@ -1,45 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9584e68-250a-4f46-bbe4-50ab9b1de85d" name="Changes" comment="20 11 22">
-      <change afterPath="$PROJECT_DIR$/src/Practice17/Task2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice17/Task2/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice17/Task2/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice17/Task2/EmployeeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task1/Exception1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task2/Exception2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task3/Exception2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task4/Exception2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task5/ThrowsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task6/ThrowsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task7/ThrowsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice18/Task8/ThrowsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice19/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice19/AvgComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice19/EmptyStringException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice19/GroupComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice19/LabClassUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice19/Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice19/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice19/StudentNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice20/Task1/Task2/Task3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice20/Task1/Task2/Task3/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice20/Task1/Task2/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice20/Task1/Task2/Task3/Pug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice20/Task4/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice20/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice20/Task4/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice21/Task2/Task3/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice21/Task2/Task3/Task4/Storage.java" afterDir="false" />
+    <list default="true" id="a9584e68-250a-4f46-bbe4-50ab9b1de85d" name="Changes" comment="20 11 2022">
+      <change afterPath="$PROJECT_DIR$/src/Practice25/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice25/Task4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice18/Task8/ThrowsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice18/Task8/ThrowsDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,19 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Users/krylo/IdeaProjects/JavaEdu/src/Practice20/Task1",
-    "last_opened_file_path": "C:/Users/krylo/IdeaProjects/JavaEdu/src/Practice19",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/krylo/IdeaProjects/JavaEdu/src/Practice20/Task1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/krylo/IdeaProjects/JavaEdu/src/Practice19&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice19" />
@@ -96,7 +62,7 @@
       <recent name="Practice16.Task4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice15.Task4.Main">
+  <component name="RunManager" selected="Application.Practice25.Task4.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice18.Task8.Main" />
       <module name="JavaEdu" />
@@ -123,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice20.Task1.Task2.Task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice20.Task1.Task2.Task3.Main" />
-      <module name="JavaEdu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice20.Task1.Task2.Task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Practice20.Task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice20.Task4.Main" />
       <module name="JavaEdu" />
@@ -149,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice19.Starter" />
+    <configuration name="Practice25.Task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice25.Task3.Main" />
       <module name="JavaEdu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice19.*" />
+          <option name="PATTERN" value="Practice25.Task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice25.Task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice25.Task4.Main" />
+      <module name="JavaEdu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice25.Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice25.Task4.Main" />
+        <item itemvalue="Application.Practice25.Task3.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Practice15.Task4.Main" />
         <item itemvalue="Application.Practice20.Task4.Main" />
-        <item itemvalue="Application.Practice20.Task1.Task2.Task3.Main" />
-        <item itemvalue="Application.Starter" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668977073275</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Recheck">
+      <created>1668977307475</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668977307475</updated>
+    </task>
+    <task id="LOCAL-00008" summary="20 11 2022">
+      <created>1668977348200</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668977348200</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +230,8 @@
     <MESSAGE value="19 11 2022" />
     <MESSAGE value="Remake next day" />
     <MESSAGE value="20 11 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="20 11 22" />
+    <MESSAGE value="Recheck" />
+    <MESSAGE value="20 11 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="20 11 2022" />
   </component>
 </project>
