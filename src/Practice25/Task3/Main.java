@@ -10,7 +10,7 @@ public class Main {
         System.out.print("Введите строку: ");
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
-        Pattern p1 = Pattern.compile("(((2[0-5][0-5])|(1[0-9][0-9])|([0-9][0-9])|[0-9])(.((2[0-5][0-5])|(1[0-9][0-9])|([0-9][0-9])|[0-9])){3}\\s*)+");
+        Pattern p1 = Pattern.compile("(((25[0-5])|(2[0-4][0-9])|(1[0-9][0-9])|([0-9][0-9])|[0-9])(.((2[0-5][0-5])|(1[0-9][0-9])|([0-9][0-9])|[0-9])){3}\\s*)+");
         Matcher m1 = p1.matcher(str);
         boolean a = m1.matches();
         if (a)
