@@ -1,6 +1,6 @@
 package Practice29;
 
-public class Dish implements Item{
+public final class Dish implements Item{
     private double price;
     private String name;
     private String description;

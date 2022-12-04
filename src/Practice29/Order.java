@@ -1,11 +1,11 @@
 package Practice29;
 
-import java.util.Arrays;
-import java.util.Objects;
+
+import java.util.HashMap;
 
 public class Order {
     private int size;
-    private Item items[];
+    private Item[] items;
 
     public Order(int size){
         this.size = size;
@@ -26,7 +26,7 @@ public class Order {
     }
     public boolean remove(String name){
         for (int i = 0; i<items.length; i++){
-            if(Objects.equals(this.items[i].getName(), name)){
+            if(this.items[i].getName() == name){
                 items[i] = null;
                 return true;
             }
@@ -36,7 +36,7 @@ public class Order {
     public int removeAll(String name){
         int c = 0;
         for (int i = 0; i<items.length; i++){
-            if(Objects.equals(this.items[i].getName(), name)){
+            if(this.items[i].getName() == name){
                 items[i] = null;
                 c++;
             }
@@ -49,7 +49,7 @@ public class Order {
     public int itemQuantity(String name){
         int c = 0;
         for (Item item : items)
-            if (Objects.equals(item.getName(), name))
+            if (item.getName()==name)
                 c++;
         return c;
     }
@@ -65,11 +65,19 @@ public class Order {
         return total;
     }
     public String[] itemsNames(){
-        String[] string = new String[size];
+        HashMap<String, Double> map = new HashMap<>();
+        int c = 0;
         for(int i = 0; i<this.size; i++){
-            int finalI = i;
-            if(Arrays.stream(string).noneMatch(s-> Objects.equals(s, items[finalI].getName())))
-                string[i]=items[i].getName();
+                if(!map.containsKey(items[i].getName())) {
+                    map.put(items[i].getName(), items[i].getPrice());
+                    c++;
+                }
+        }
+        String[] string = new String[c];
+        int j = 0;
+        for (String key : map.keySet()){
+            string[j] = key;
+            j++;
         }
         return string;
     }

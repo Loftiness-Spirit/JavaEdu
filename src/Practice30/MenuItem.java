@@ -1,22 +1,23 @@
-package Practice29;
+package Practice30;
 
-public final class Drink implements Item{
-    private double price;
+public class MenuItem {
+    private int cost;
     private String name;
     private String description;
-    public Drink(String name, String description){
-        this.price = 0;
+
+    public MenuItem(String name, String description){
+        this.cost = 0;
         this.name = name;
         this.description = description;
     }
-    public Drink(double price, String name, String description){
-        this.price = price;
+    public MenuItem(int cost, String name, String description){
+        this.cost = cost;
         this.name = name;
         this.description = description;
     }
 
-    public double getPrice() {
-        return price;
+    public int getCost() {
+        return cost;
     }
 
     public String getName() {
