@@ -1,6 +1,6 @@
 package Practice30;
 
 public interface Alcoholable {
-    public void isAlcoholicDrink();
+    public boolean isAlcoholicDrink();
     public double getAlcoholVol();
 }

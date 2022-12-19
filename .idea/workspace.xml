@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9584e68-250a-4f46-bbe4-50ab9b1de85d" name="Changes" comment="28.11.22">
-      <change afterPath="$PROJECT_DIR$/src/Practice26/Task3/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice26/Task3/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice26/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice26/Task4/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice26/Task4/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice26/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice27/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice27/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice27/Task2/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice29/TableOrdersManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/Alcoholable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/DrinkTypeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/InternetOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/InternetOrdersManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/OrdersManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/TableOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice30/TableOrdersManager.java" afterDir="false" />
+    <list default="true" id="a9584e68-250a-4f46-bbe4-50ab9b1de85d" name="Changes" comment="05.12.2022">
+      <change afterPath="$PROJECT_DIR$/src/Practice30/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice29/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/Dish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice29/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/Drink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice29/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/Alcoholable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/Alcoholable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/Drink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/DrinkTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/DrinkTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/InternetOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/InternetOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/InternetOrdersManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/InternetOrdersManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/TableOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/TableOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/TableOrdersManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/TableOrdersManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +73,7 @@
       <recent name="Practice16.Task4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Practice30.Main">
     <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice22.Task2.CalculatorTest" />
       <module name="JavaEdu" />
@@ -141,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice25.Task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice25.Task4.Main" />
+    <configuration name="Practice30.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice30.Main" />
       <module name="JavaEdu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice25.Task4.*" />
+          <option name="PATTERN" value="Practice30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice30.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Practice23.Task1.Main" />
         <item itemvalue="Application.CalculatorTest" />
         <item itemvalue="Application.Practice22.Task1.Main" />
-        <item itemvalue="Application.Practice25.Task4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +249,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670071021202</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Waiting for editing">
+      <created>1670188190214</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670188190214</updated>
+    </task>
+    <task id="LOCAL-00015" summary="05.12.2022">
+      <created>1670188236035</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670188236035</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +296,8 @@
     <MESSAGE value="26.11.22" />
     <MESSAGE value="27.11.22" />
     <MESSAGE value="28.11.22" />
-    <option name="LAST_COMMIT_MESSAGE" value="28.11.22" />
+    <MESSAGE value="Waiting for editing" />
+    <MESSAGE value="05.12.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="05.12.2022" />
   </component>
 </project>

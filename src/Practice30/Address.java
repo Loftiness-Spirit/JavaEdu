@@ -45,4 +45,8 @@ public final class Address {
         return apartmentNumber;
     }
 
+    @Override
+    public String toString() {
+        return "г. " + cityName + " ин. " + zipCode + " ул. " + streetName + " д. " + buildingNumber + " к. " + buildingLetter + " кв. " + apartmentNumber;
+    }
 }

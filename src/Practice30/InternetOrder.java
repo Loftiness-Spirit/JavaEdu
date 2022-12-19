@@ -7,6 +7,19 @@ public class InternetOrder implements Order{
     private ListNode head;
     private ListNode tail;
 
+    private Address address;
+
+    public InternetOrder(Address address){
+        this.address = address;
+    }
+    public Address getAddress() {
+        return address;
+    }
+
+    public void setAddress(Address address) {
+        this.address = address;
+    }
+
     @Override
     public boolean add(MenuItem item) {
         ListNode new_node = new ListNode(item);
@@ -71,6 +84,17 @@ public class InternetOrder implements Order{
             }
         }
         return j;
+    }
+
+    @Override
+    public String toString() {
+        ListNode currNode = head;
+        String string = "";
+        while (currNode != null){
+            string += currNode.toString();
+            currNode=currNode.next;
+        }
+        return string;
     }
 
     @Override
@@ -180,30 +204,28 @@ public class InternetOrder implements Order{
 
     @Override
     public int costTotal() {
-        MenuItem[] items = getItems();
+        ListNode currNode = head;
         int total = 0;
-        for(int i = 0; i < items.length; i++) {
-            total+=items[i].getCost();
+        while (currNode != null){
+            total+=currNode.value.getCost();
+            currNode=currNode.next;
         }
-        return 0;
+        return total;
     }
 
-    @Override
-    public Customer getCustomer() {
-        return null;
-    }
-
-    @Override
-    public void setCustomer(Customer customer) {
-
-    }
 
     class ListNode{
         private ListNode next;
         private MenuItem value;
+
         ListNode (MenuItem value){
-            this.value = value;
+            this.value = value  ;
             next = null;
+        }
+
+        @Override
+        public String toString() {
+            return value.toString()+"\n##########\n";
         }
     }
 
