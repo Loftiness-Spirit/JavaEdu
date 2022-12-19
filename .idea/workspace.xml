@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9584e68-250a-4f46-bbe4-50ab9b1de85d" name="Changes" comment="05.12.2022">
-      <change afterPath="$PROJECT_DIR$/src/Practice30/Main.java" afterDir="false" />
+    <list default="true" id="a9584e68-250a-4f46-bbe4-50ab9b1de85d" name="Changes" comment="duakdgukaskfkas">
+      <change afterPath="$PROJECT_DIR$/src/Practice29/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice29/InternetOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice29/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice29/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice29/OrderAlreadyAddedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice29/RestaurantOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/Alcoholable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/DrinkTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/InternetOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/InternetOrdersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/OrdersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/TableOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice31/TableOrdersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/Alcoholable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/DrinkTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/InternetOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/InternetOrdersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/OrdersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/TableOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice32/TableOrdersManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice30/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice30/Alcoholable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/Alcoholable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice30/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/Drink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice30/DrinkTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/DrinkTypeEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice30/InternetOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/InternetOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice30/InternetOrdersManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/InternetOrdersManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice30/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice30/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice30/TableOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/TableOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice30/TableOrdersManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/TableOrdersManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice29/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/Dish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice29/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/Drink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice29/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice29/TableOrdersManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/OrderManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,26 +74,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/krylo/IdeaProjects/JavaEdu/src/Practice20/Task1&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/krylo/IdeaProjects/JavaEdu/src/Practice22&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/Users/krylo/IdeaProjects/JavaEdu/src/Practice20/Task1",
+    "last_opened_file_path": "C:/Users/krylo/IdeaProjects/JavaEdu/src/Practice32",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice32" />
+      <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice31" />
       <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice22" />
       <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice19" />
       <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice18\Task8" />
-      <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice16\Task4" />
-      <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice9" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Practice18.Task7" />
@@ -73,39 +101,13 @@
       <recent name="Practice16.Task4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice30.Main">
-    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice22.Task2.CalculatorTest" />
-      <module name="JavaEdu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice22.Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Practice32.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice24.Main" />
       <module name="JavaEdu" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice22.Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice22.Task1.Main" />
-      <module name="JavaEdu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice22.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,6 +128,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice29.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice29.Main" />
+      <module name="JavaEdu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practice30.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice30.Main" />
       <module name="JavaEdu" />
@@ -139,13 +154,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice32.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice32.Main" />
+      <module name="JavaEdu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice32.Main" />
+        <item itemvalue="Application.Practice29.Main" />
         <item itemvalue="Application.Practice30.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Practice23.Task1.Main" />
-        <item itemvalue="Application.CalculatorTest" />
-        <item itemvalue="Application.Practice22.Task1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670188236035</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA">
+      <created>1671419534084</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1671419534084</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,6 +333,24 @@
     <MESSAGE value="28.11.22" />
     <MESSAGE value="Waiting for editing" />
     <MESSAGE value="05.12.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="05.12.2022" />
+    <MESSAGE value="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" />
+    <MESSAGE value="duakdgukaskfkas" />
+    <option name="LAST_COMMIT_MESSAGE" value="duakdgukaskfkas" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice32/FileManager.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice32/FileManager.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
