@@ -128,7 +128,7 @@ public class TableOrdersManager implements OrdersManager {
     }
     public String fileString()
     {
-        String result = this.freeTableNumber() + "\n";
+        String result = (this.orders.length-this.freeTableNumber()) + "\n";
         result += this.orders.length + "\n";
         for (int i = 0; i < this.orders.length; ++i)
         {

@@ -1,12 +1,21 @@
 package Practice30;
 
+import Practice29.OrderAlreadyAddedException;
+
 public class TableOrdersManager implements OrdersManager{
     private Order[] orders;
 
-    public TableOrdersManager(int tablesQuantity){
+    public TableOrdersManager(int tablesQuantity) throws IllegalArgumentException{
+        if (tablesQuantity <= 0)
+        {
+            throw new RuntimeException("Ошибка! Количество столов не может быть меньше или равно 0!");
+        }
         orders = new Order[tablesQuantity];
     }
-    public void add(Order order, int tableNumber){
+    public void add(Order order, int tableNumber) throws OrderAlreadyAddedException {
+        if (orders[tableNumber]!=null){
+            throw new OrderAlreadyAddedException("Ошибка! Столик занят!");
+        }
         orders[tableNumber] = order;
     }
     public void addItem(MenuItem item, int tableNumber){

@@ -1,47 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a9584e68-250a-4f46-bbe4-50ab9b1de85d" name="Changes" comment="duakdgukaskfkas">
-      <change afterPath="$PROJECT_DIR$/src/Practice29/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice29/InternetOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice29/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice29/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice29/OrderAlreadyAddedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice29/RestaurantOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/Alcoholable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/DrinkTypeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/InternetOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/InternetOrdersManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/OrdersManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/TableOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice31/TableOrdersManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/Alcoholable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/DrinkTypeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/FileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/InternetOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/InternetOrdersManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/OrdersManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/TableOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice32/TableOrdersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice1/Task2/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice1/Task2/TestBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice2/Task1/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice2/Task1/TestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice3/Format/Task1/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice3/MathRand/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice3/MathRand/Task2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice3/MathRand/Task2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice3/MathRand/Task2/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice3/MathRand/Task3/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice3/MathRand/Task4/arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice3/Shells/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4/Task1/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4/Task4/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4/Task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4/Task4/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4/Task4/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4/Task4/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task1/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task10/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task10/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task10/Pricier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task10/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task10/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task10/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice4_1/Task4/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/Task2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/Task2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/Task2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/Task2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/Task4/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice5/Task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task10/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task10/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task10/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task10/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task10/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task10/id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task11/Convertable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task11/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task4/Buckler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task4/Crystalys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task4/Priceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task5/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task5/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task5/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task6/Task7/Task8/Task9/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task6/Task7/Task8/Task9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task6/Task7/Task8/Task9/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice6/Task6/Task7/Task8/Task9/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task3/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task3/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task3/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task4/MathCalculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task4/MathFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task5/Stringable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task5/Stringer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task6/ProcessStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task6/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task7/Task8/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task7/Task8/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task7/Task8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice7/Task7/Task8/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice8/Task15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice8/Task16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice8/Task17/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice29/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/Dish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice29/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/Drink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice29/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice29/TableOrdersManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/OrderManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEdu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEdu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice29/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice29/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice30/TableOrdersManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice30/TableOrdersManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice32/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice32/FileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice32/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice32/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice32/TableOrders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice32/TableOrders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice32/TableOrdersManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice32/TableOrdersManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,38 +139,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Users/krylo/IdeaProjects/JavaEdu/src/Practice20/Task1",
-    "last_opened_file_path": "C:/Users/krylo/IdeaProjects/JavaEdu/src/Practice32",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "C:/Users/krylo/Desktop/Java/JavaEdu/src/Practice7/Task7/Task8",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice32" />
-      <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice31" />
-      <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice22" />
-      <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice19" />
-      <recent name="C:\Users\krylo\IdeaProjects\JavaEdu\src\Practice18\Task8" />
+      <recent name="C:\Users\krylo\Desktop\Java\JavaEdu\src\Practice7\Task7\Task8" />
+      <recent name="C:\Users\krylo\Desktop\Java\JavaEdu\src\Practice7\Task6" />
+      <recent name="C:\Users\krylo\Desktop\Java\JavaEdu\src\Practice7\Task5" />
+      <recent name="C:\Users\krylo\Desktop\Java\JavaEdu\src\Practice7\Task4" />
+      <recent name="C:\Users\krylo\Desktop\Java\JavaEdu\src\Practice7\Task3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Practice18.Task7" />
-      <recent name="Practice18.Task6" />
-      <recent name="Practice16.Task4" />
+      <recent name="Practice8.Task17" />
+      <recent name="Practice8.Task16" />
+      <recent name="Practice8.Task15" />
+      <recent name="Practice5.Task3" />
+      <recent name="Practice5.Task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice32.Main">
+  <component name="RunManager" selected="Application.Practice5.Task4.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice24.Main" />
+      <option name="MAIN_CLASS_NAME" value="Practice4_1.Task4.Main" />
       <module name="JavaEdu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice24.*" />
+          <option name="PATTERN" value="Practice4_1.Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice23.Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice23.Task1.Main" />
+    <configuration name="Practice5.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice5.Task2.Main" />
       <module name="JavaEdu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice23.Task1.*" />
+          <option name="PATTERN" value="Practice5.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice29.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice29.Main" />
+    <configuration name="Practice5.Task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice5.Task3.Main" />
       <module name="JavaEdu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice29.*" />
+          <option name="PATTERN" value="Practice5.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice30.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice30.Main" />
+    <configuration name="Practice5.Task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice5.Task4.Main" />
       <module name="JavaEdu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice30.*" />
+          <option name="PATTERN" value="Practice5.Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice32.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice32.Main" />
+    <configuration name="Pricier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice4_1.Task10.Pricier" />
       <module name="JavaEdu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice32.*" />
+          <option name="PATTERN" value="Practice4_1.Task10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,15 +229,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice32.Main" />
-        <item itemvalue="Application.Practice29.Main" />
-        <item itemvalue="Application.Practice30.Main" />
+        <item itemvalue="Application.Practice5.Task4.Main" />
+        <item itemvalue="Application.Practice5.Task3.Main" />
+        <item itemvalue="Application.Practice5.Task2.Main" />
+        <item itemvalue="Application.Pricier" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Practice23.Task1.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a9584e68-250a-4f46-bbe4-50ab9b1de85d" name="Changes" comment="" />
@@ -306,13 +369,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -336,21 +393,5 @@
     <MESSAGE value="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" />
     <MESSAGE value="duakdgukaskfkas" />
     <option name="LAST_COMMIT_MESSAGE" value="duakdgukaskfkas" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practice32/FileManager.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practice32/FileManager.java</url>
-          <line>91</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

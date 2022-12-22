@@ -225,7 +225,13 @@ public class Main {
                     System.out.println("Введите номер столика:");
                     int table = num.nextInt();
                     if(table<=tables&&table>0){
-                        tableOrdersManager.add(Table(), table-1);
+                        try {
+                            tableOrdersManager.add(Table(), table - 1);
+                        }
+                        catch (Exception e){
+                            System.out.println(e);
+                            yield false;
+                        }
                     }
                     else {
                         System.out.println("Ошибка! Столика не существует");

@@ -4,12 +4,12 @@ public class Main {
     public static void main(String[] args)
     {
         Item[] item = new Item[6];
-        item[0] = new Drink(100, "A", "123");
-        item[1] = new Drink(200, "B", "123");
-        item[2] = new Drink(300, "C", "123");
-        item[3] = new Dish(400, "D", "123");
-        item[4] = new Dish(500, "E", "123");
-        item[5] = new Dish(600, "F", "123");
+        item[0] = new Drink(600, "A", "123");
+        item[1] = new Drink(500, "B", "123");
+        item[2] = new Drink(400, "C", "123");
+        item[3] = new Dish(300, "D", "123");
+        item[4] = new Dish(200, "E", "123");
+        item[5] = new Dish(100, "F", "123");
         List list = new List();
         list.add(item[0]);
         list.add(item[1]);

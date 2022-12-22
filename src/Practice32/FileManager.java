@@ -56,15 +56,15 @@ public class FileManager {
                 try {
                     size = scanner.nextInt();
                     length = scanner.nextInt();
-                    menuItems = new MenuItem[size][];
+                    menuItems = new MenuItem[length][];
                     tableOrder = new TableOrder[size];
                     Table = new boolean[length];
-                    for (int i = 0; i < length; ++i)
+                    for (int i = 0; i < size; i++)
                     {
                         if (scanner.next().equals("null") == false) {
                             Table[i] = true;
                             menuItems[i] = new MenuItem[scanner.nextInt()];
-                            for (int j = 0; j < menuItems[i].length; ++j) {
+                            for (int j = 0; j < menuItems[i].length; j++) {
                                 if (scanner.next().equals("Dish") == true) {
                                     nameItem = "";
                                     do {

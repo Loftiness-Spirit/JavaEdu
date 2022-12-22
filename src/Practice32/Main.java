@@ -195,7 +195,7 @@ public class Main {
         InternetOrdersManager internetOrdersManager;
         if (error)
         {
-            internetOrdersManager = FileManager.readI("C:\\Users\\krylo\\IdeaProjects\\JavaEdu\\src\\Practice32\\InternetOrders.txt");
+            internetOrdersManager = FileManager.readI("C:\\Users\\mirea\\IdeaProjects\\JavaEdu\\src\\Practice32\\InternetOrders.txt");
             if (internetOrdersManager == null)
             {
                 System.out.println("Ошибка загрузки файла, менеджер создан с чистого листа!");
@@ -220,7 +220,7 @@ public class Main {
         }
         else
         {
-            tableOrdersManager = FileManager.readT("C:\\Users\\krylo\\IdeaProjects\\JavaEdu\\src\\Practice32\\TableOrders.txt");
+            tableOrdersManager = FileManager.readT("C:\\Users\\mirea\\IdeaProjects\\JavaEdu\\src\\Practice32\\TableOrders.txt");
             if (tableOrdersManager == null)
             {
                 System.out.println("Ошибка загрузки файла, менеджер создан с чистого листа!");
@@ -306,11 +306,11 @@ public class Main {
                     option2 = num.nextInt();
                     if (option2 == 1)
                     {
-                        internetOrdersManager = FileManager.readI("C:\\Users\\krylo\\IdeaProjects\\JavaEdu\\src\\Practice32\\InternetOrders.txt");
+                        internetOrdersManager = FileManager.readI("C:\\Users\\mirea\\IdeaProjects\\JavaEdu\\src\\Practice32\\InternetOrders.txt");
                     }
                     else
                     {
-                        tableOrdersManager = FileManager.readT("C:\\Users\\krylo\\IdeaProjects\\JavaEdu\\src\\Practice32\\TableOrders.txt");
+                        tableOrdersManager = FileManager.readT("C:\\Users\\mirea\\IdeaProjects\\JavaEdu\\src\\Practice32\\TableOrders.txt");
                     }
                     yield true;
                 }
@@ -319,11 +319,11 @@ public class Main {
                     option2 = num.nextInt();
                     if (option2 == 1)
                     {
-                        FileManager.Zero("C:\\Users\\krylo\\IdeaProjects\\JavaEdu\\src\\Practice32\\InternetOrders.txt");
+                        FileManager.Zero("C:\\Users\\mirea\\IdeaProjects\\JavaEdu\\src\\Practice32\\InternetOrders.txt");
                     }
                     else
                     {
-                        FileManager.Zero("C:\\Users\\krylo\\IdeaProjects\\JavaEdu\\src\\Practice32prk32\\TableOrders.txt");
+                        FileManager.Zero("C:\\Users\\mirea\\IdeaProjects\\JavaEdu\\src\\Practice32\\TableOrders.txt");
                     }
                     yield true;
                 }
@@ -332,11 +332,11 @@ public class Main {
                     option2 = num.nextInt();
                     if (option2 == 1)
                     {
-                        FileManager.write("C:\\Users\\krylo\\IdeaProjects\\JavaEdu\\src\\Practice32\\InternetOrders.txt", internetOrdersManager.fileString());
+                        FileManager.write("C:\\Users\\mirea\\IdeaProjects\\JavaEdu\\src\\Practice32\\InternetOrders.txt", internetOrdersManager.fileString());
                     }
                     else
                     {
-                        FileManager.write("C:\\Users\\krylo\\IdeaProjects\\JavaEdu\\src\\Practice32\\TableOrders.txt", tableOrdersManager.fileString());
+                        FileManager.write("C:\\Users\\mirea\\IdeaProjects\\JavaEdu\\src\\Practice32\\TableOrders.txt", tableOrdersManager.fileString());
                     }
                     yield true;
                 }
