@@ -63,13 +63,13 @@
       <recent name="Practice5.Task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice27.Task1.Main">
-    <configuration name="Practice25.Task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice25.Task3.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice27.Task2.Main" />
       <module name="JavaEdu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice25.Task3.*" />
+          <option name="PATTERN" value="Practice27.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice25.Task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice25.Task4.Main" />
+    <configuration name="Practice25.Task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice25.Task3.Main" />
       <module name="JavaEdu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice25.Task4.*" />
+          <option name="PATTERN" value="Practice25.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Practice27.Task1.Main" />
         <item itemvalue="Application.Practice26.Task4.Main" />
         <item itemvalue="Application.Practice26.Task3.Main" />
         <item itemvalue="Application.Practice25.Task3.Main" />
-        <item itemvalue="Application.Practice25.Task4.Main" />
       </list>
     </recent_temporary>
   </component>
