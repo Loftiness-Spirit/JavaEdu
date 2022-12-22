@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args)
     {
         HashSet<String> hashSet = new HashSet<String>();
-        hashSet.add("Леонид");
+        hashSet.add("Алесандр");
         hashSet.add("Иван");
         hashSet.add("Андрей");
         hashSet.add("Денис");
